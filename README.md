@@ -3,14 +3,14 @@
 ## Start the Server project
 
 To run the server project .
-* Open Command Prompt and navigate to the `smava-task-server` folder.
+* Open Command Prompt and navigate to the `server` folder.
 * Install the dependencies using `yarn install`.
 * Start using `yarn start`.
 
 ## Start the Client project
 
 To run the server project .
-* Open Command Prompt and navigate to the `smava-task-client` folder.
+* Open Command Prompt and navigate to the `client` folder.
 * Install the dependencies using `yarn install`.
 * Start using `yarn start`.
 
