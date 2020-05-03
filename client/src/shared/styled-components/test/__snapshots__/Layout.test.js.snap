@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Styled Components: PageLayout renders correctly - PageLayout Style Component 1`] = `
+.c0 {
+  background-color: #f0f0f0;
+  height: 100%;
+}
+
+<div
+  className="c0"
+>
+  Testing
+</div>
+`;
